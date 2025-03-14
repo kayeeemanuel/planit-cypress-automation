@@ -1,4 +1,4 @@
-# 🌟 Cypress Automation Project
+# 🌟 PLANIT - JUPITER TOYS Cypress Automation Project
 
 ## 📌 Overview
 This project contains automated tests for the [Jupiter Toys](https://jupiter.cloud.planittesting.com/) website using Cypress. The test suite automates **critical functionalities** including form validation, shopping cart operations, price verification, and UI element validation.
