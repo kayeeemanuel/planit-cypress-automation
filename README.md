@@ -17,5 +17,5 @@ This project contains automated tests for the [Jupiter Toys](https://jupiter.clo
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/kayeeemanuel/planit-cypress-automation
 cd cypress-project
