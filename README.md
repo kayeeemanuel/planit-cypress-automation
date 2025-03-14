@@ -7,9 +7,9 @@ This project contains automated tests for the [Jupiter Toys](https://jupiter.clo
 - **Automation Framework**: Cypress
 - **Programming Language**: JavaScript
 - **Assertions Library**: Mocha + Chai
-- **CI/CD Integration**: GitHub Actions (if applicable)
+- **CI/CD Integration**: GitHub Actions
 - **Test Execution**: Cypress Test Runner (headed & headless modes)
-- **Report Generation**: Cypress Dashboard (if enabled)
+- **Report Generation**: Cypress Dashboard
 
 ---
 
